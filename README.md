@@ -24,16 +24,26 @@ I turn ideas into working AI-assisted products fast, then make sure they're reli
 | **Document & Letter Management** | Letter and complaint tracking portal for Ethiopia's national broadcaster | [Case study](https://genshifter-portfolio.vercel.app/portfolio/dmls) · [Live](https://genshifter-portfolio.vercel.app/projects/dmls/portal) |
 | **GeofenceHRM** | Smart HR and workforce management with location-aware access | [Live](https://genshifter-portfolio.vercel.app/projects/employee/employee-login) |
 | **Stocky (Nexus)** | Inventory and operations for small businesses | [Live](https://genshifter-portfolio.vercel.app/projects/stocky/login) |
-| **AlikoHub Career Portal** | Job portal connecting job seekers, including CNAs, with home care employers | [Live](https://career.alikohub.com/) |
-| **AlikoHub & Aliko Academy** | Youth workforce platform with LMS and learning pathways | [AlikoHub](https://genshifter-portfolio.vercel.app/projects/alikohub) · [Academy](https://genshifter-portfolio.vercel.app/projects/academy) |
 | **Yeneta Language & Cultural Academy** | Enrollment, summer camp, online shop, donations | [Live](https://genshifter-portfolio.vercel.app/projects/yeneta) |
 | **Les Kick't** | Sports e-commerce; supported 90% revenue growth | [Live](https://genshifter-portfolio.vercel.app/projects/leskick) |
 | **Hannah Catering** | Online ordering and event booking | [Live](https://genshifter-portfolio.vercel.app/projects/hannah) |
 | **Serawit Law** | Law firm site with consultation booking | [Live](https://genshifter-portfolio.vercel.app/projects/serawit) |
-| **Conshifter Africa Alliance & AlikoTech** | Construction-tech alliance platform and field construction software | [Conshifter](https://genshifter-portfolio.vercel.app/projects/conshifter) · [AlikoTech](https://alikotech.alikohub.com/) |
+| **Conshifter Africa Alliance** | Construction-tech alliance platform for members, pilots, and partners | [Live](https://genshifter-portfolio.vercel.app/projects/conshifter) |
 | **Small business sites** | Mobile detailing booking and an engineering firm site | [Detailing](https://genshifter-portfolio.vercel.app/projects/detailing) · [EF Engineering](https://genshifter-portfolio.vercel.app/projects/ef) |
 
-📂 Full portfolio: **[genshifter-portfolio.vercel.app](https://genshifter-portfolio.vercel.app)**
+📂 Full portfolio: **[genshifter-portfolio.vercel.app](https://genshifter-portfolio.vercel.app)** · Company site: **[genshifter.com](https://www.genshifter.com/)**
+
+## 🌍 AlikoHub ecosystem
+
+[**AlikoHub**](https://alikohub.com/) is a youth resourcefulness ecosystem supporting young people through digital health, STEM, innovation, and business development, operating in Seattle and Addis Ababa. Its ventures:
+
+| Venture | What it does | Link |
+|---|---|---|
+| **Aliko Academy** | Workforce training and certification in AI, data analytics, cloud, software, health, and engineering, with an LMS | [academy.alikohub.com](https://academy.alikohub.com/) |
+| **AlikoHub Careers** | Job portal connecting job seekers, including CNAs, with employers such as home care agencies | [career.alikohub.com](https://career.alikohub.com/) |
+| **AlikoTech (Alikore)** | Construction software for field updates, project records, teams, and cost tracking | [alikotech.alikohub.com](https://alikotech.alikohub.com/) |
+| **Aliko Consultancy** | Career advisory, professional development, mentorship, and business consulting | [consultancy.alikohub.com](https://consultancy.alikohub.com/) |
+| **Aliko Events** | Industry matchmaking, innovation forums, and professional and social events | [event.alikohub.com](https://event.alikohub.com/) |
 
 ### Learning projects in this account
 React and full-stack practice builds: [Amazon clone](https://github.com/baliko12/Amazon-Clone-Full-Stack) · [Netflix clone with API](https://github.com/baliko12/Netflix-Replica--API-Integeration) · [Apple site in React](https://github.com/baliko12/react-apple) · [Apple site in Bootstrap](https://github.com/baliko12/Apple-Replica-Bootstrap)
@@ -52,4 +62,4 @@ React and full-stack practice builds: [Amazon clone](https://github.com/baliko12
 B.S. Civil Engineering, Addis Ababa University · Data Analytics & Machine Learning, University of Washington · PMP (#4232661) · Microsoft SQL Server Data Administration · Meta Front-End & Back-End Developer certificates
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/bonialiko12) · [Portfolio](https://genshifter-portfolio.vercel.app) · [Personal site](https://bonialikoportifolio.lovable.app) · bonialiko12@gmail.com
+[LinkedIn](https://www.linkedin.com/in/bonialiko12) · [Portfolio](https://genshifter-portfolio.vercel.app) · [AlikoHub](https://alikohub.com/) · [Personal site](https://bonialikoportifolio.lovable.app) · bonialiko12@gmail.com
