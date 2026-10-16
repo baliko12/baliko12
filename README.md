@@ -17,14 +17,13 @@ I turn ideas into working AI-assisted products fast, then make sure they're reli
 
 | Project | What it is | Links |
 |---|---|---|
-| **Ethiopian Coffee Network** | National B2B coffee trade platform: 9 role-based portals, KYC, traceability, escrow, logistics | [Case study](https://genshifter-portfolio.vercel.app/portfolio/coffee) · [Live](https://e-coffee-demo.vercel.app/) |
+| **Ethiopian Coffee Network** | National B2B coffee trade platform: 9 role-based portals, KYC, traceability, escrow, logistics | [Live](https://e-coffee-demo.vercel.app/) |
 | **Tebeka Portal** | Bilingual (Amharic/English) legal services marketplace; 80-page, 15-module spec | [Case study](https://genshifter-portfolio.vercel.app/portfolio/tebeka) · [Live](https://tebeka-portal-master.vercel.app/) |
 | **Hospital Management System** | Patient administration, clinical operations, staff access control | [Case study](https://genshifter-portfolio.vercel.app/portfolio/hrms) · [Live](https://genshifter-portfolio.vercel.app/projects/hrms/login) |
 | **ERP Platform** | Resource planning, shared data, controlled user access | [Case study](https://genshifter-portfolio.vercel.app/portfolio/erp) · [Live](https://genshifter-portfolio.vercel.app/projects/erp) |
 | **Document & Letter Management** | Letter and complaint tracking portal for Ethiopia's national broadcaster | [Case study](https://genshifter-portfolio.vercel.app/portfolio/dmls) · [Live](https://genshifter-portfolio.vercel.app/projects/dmls/portal) |
-| **Employee Management Platform** | HR workforce processes with secure access | [Live](https://genshifter-portfolio.vercel.app/projects/employee/employee-login) |
-| **Geo Management Platform** | Organizational workflows and operational visibility | [Live](https://genshifter-portfolio.vercel.app/projects/geo) |
-| **Stocky** | Inventory and operations for small businesses | [Live](https://genshifter-portfolio.vercel.app/projects/stocky/login) |
+| **GeofenceHRM** | Smart HR and workforce management with location-aware access | [Live](https://genshifter-portfolio.vercel.app/projects/employee/employee-login) |
+| **Stocky (Nexus)** | Inventory and operations for small businesses | [Live](https://genshifter-portfolio.vercel.app/projects/stocky/login) |
 | **AlikoHub Career Portal** | Job portal connecting job seekers, including CNAs, with home care employers | [Live](https://career.alikohub.com/) |
 | **AlikoHub & Aliko Academy** | Youth workforce platform with LMS and learning pathways | [AlikoHub](https://genshifter-portfolio.vercel.app/projects/alikohub) · [Academy](https://genshifter-portfolio.vercel.app/projects/academy) |
 | **Yeneta Language & Cultural Academy** | Enrollment, summer camp, online shop, donations | [Live](https://genshifter-portfolio.vercel.app/projects/yeneta) |
@@ -32,7 +31,7 @@ I turn ideas into working AI-assisted products fast, then make sure they're reli
 | **Hannah Catering** | Online ordering and event booking | [Live](https://genshifter-portfolio.vercel.app/projects/hannah) |
 | **Serawit Law** | Law firm site with consultation booking | [Live](https://genshifter-portfolio.vercel.app/projects/serawit) |
 | **Conshifter Africa Alliance & AlikoTech** | Construction-tech alliance platform and field construction software | [Conshifter](https://genshifter-portfolio.vercel.app/projects/conshifter) · [AlikoTech](https://alikotech.alikohub.com/) |
-| **Small business sites** | Business center, consultancy, detailing, events, architecture firm | [Consultancy](https://genshifter-portfolio.vercel.app/projects/consultancy) · [Detailing](https://genshifter-portfolio.vercel.app/projects/detailing) · [Events](https://genshifter-portfolio.vercel.app/projects/event) · [EF](https://genshifter-portfolio.vercel.app/projects/ef) |
+| **Small business sites** | Mobile detailing booking and an engineering firm site | [Detailing](https://genshifter-portfolio.vercel.app/projects/detailing) · [EF Engineering](https://genshifter-portfolio.vercel.app/projects/ef) |
 
 📂 Full portfolio: **[genshifter-portfolio.vercel.app](https://genshifter-portfolio.vercel.app)**
 
